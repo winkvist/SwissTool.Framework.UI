@@ -15,7 +15,7 @@ namespace SwissTool.Framework.UI.Infrastructure
     using System.Reflection;
     using System.Windows.Input;
 
-    using SwissTool.Framework.UI.Commanding;
+    using SwissTool.Framework.Commanding;
 
     /// <summary>
     /// The ViewModel base
