@@ -76,7 +76,7 @@ namespace SwissTool.Framework.UI.Controls
         public MetroDialogWindow()
         {
             this.BorderThickness = new Thickness(1);
-            this.BorderBrush = (Brush)this.FindResource("AccentColorBrush");
+            this.BorderBrush = (Brush)this.FindResource("MahApps.Brushes.Accent");
         }
         
         /// <summary>
